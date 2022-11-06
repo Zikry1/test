@@ -1,0 +1,17 @@
+*{padding: auto;margin: auto;}
+.container{height: auto;
+width: auto;
+color: black;
+background-color: aquamarine;
+text-align: center;}
+.home,.right,.left{padding: 25%;}
+h2{font-size: 75px;margin-bottom: auto;}
+a{text-decoration: none;
+background-color:rgb(213, 217, 221);
+padding: 5px;
+margin: 5px;
+border: 3px solid lightslategray;
+border-radius: 10px;}
+#right{color: green;}
+#left{color: blue;}
+#back{color: black;}
